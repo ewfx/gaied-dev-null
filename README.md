@@ -20,10 +20,9 @@ Gen AI Orchestrator is a system designed to automate **email and document triage
 
 ## 🎥 Demo
 
-🔗 [Live Demo](#) _(Coming Soon!)_  
-📹 [Video Demo](#) _(Coming Soon!)_  
-🖼️ Screenshots:
+📹 [Video Demo](https://github.com/ewfx/gaied-dev-null/blob/main/artifacts/demo/DEV_NULL%20DEMO%20480p.mp4)  
 
+🖼️ Screenshots:
 #### Landing 
 ![image](https://github.com/user-attachments/assets/c62ba0b4-f071-40ed-aed4-54a738f993cb)
 ### Request Type Configuration
