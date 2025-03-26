@@ -24,7 +24,24 @@ Gen AI Orchestrator is a system designed to automate **email and document triage
 📹 [Video Demo](#) _(Coming Soon!)_  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+#### Landing 
+![image](https://github.com/user-attachments/assets/c62ba0b4-f071-40ed-aed4-54a738f993cb)
+### Request Type Configuration
+![image](https://github.com/user-attachments/assets/cb3e9a9f-3c5f-4893-b43f-15fac86f5579)
+### Editing Request types
+![image](https://github.com/user-attachments/assets/d430605a-1957-4936-9d05-757b4971bb48)
+### Request type Presets (Loan Servicing specific)
+![image](https://github.com/user-attachments/assets/8102b91c-f9b9-432e-a64b-b579bb534f8b)
+### Adding Custom Request type
+![image](https://github.com/user-attachments/assets/afffca17-e26b-45c4-a5e4-6454d8f51b3b)
+### Successful EML Upload
+![image](https://github.com/user-attachments/assets/a9b38a61-be8a-4565-a6e7-188dc0c985e5)
+### Email Processing output 
+![image](https://github.com/user-attachments/assets/afe3fa18-aac6-46cf-a6cc-dfd71194a448)
+![image](https://github.com/user-attachments/assets/9a6bc8d4-c823-4c50-b915-7dc469c500f8)
+![image](https://github.com/user-attachments/assets/282e90ce-2659-4a94-bdb8-039a9b540903)
+### Duplicate Hnadling 
+![image](https://github.com/user-attachments/assets/ea959e17-bda9-4528-bfc4-13aa13288b34)
 
 ---
 
